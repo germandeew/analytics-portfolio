@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+demos/phone-attribution/data/
+demos/phone-attribution/report.md
+demos/ledger-invariants-postgres/.mutant.sql
